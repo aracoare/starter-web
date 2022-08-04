@@ -7,5 +7,8 @@ This is a simple example of how to commit changes into gitHub
 Sample website with plenty of files for demos
 
 ##Deployment 
+TEext
+Text
+Text
 
 ## How to contribute
