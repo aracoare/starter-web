@@ -4,7 +4,7 @@ This is a simple example of how to commit changes into gitHub
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Lets learn about Git
 
 ##Deployment 
 TEext
