@@ -12,3 +12,7 @@ Text
 Text
 
 ## How to contribute
+
+TEXT
+TEXT
+TEXT
